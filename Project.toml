@@ -1,0 +1,7 @@
+name = "Gausslets"
+uuid = "d50a82ac-9778-11e9-2f04-cd58256f39c9"
+repo = "https://github.com/ITensor/Gausslets"
+version = "0.0.0"
+
+[deps]
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
